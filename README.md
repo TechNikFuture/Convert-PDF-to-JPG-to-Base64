@@ -1,4 +1,4 @@
-1. The PDF must be in the same directory as the Python-File.
+1. The PDF must be located in the same directory as the Python-File.
 2. The PDF must be named "test.pdf"
 
 All of the pages in the PDF are going to be converted to high quality jpgs.
